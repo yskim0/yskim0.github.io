@@ -1,2 +1,7 @@
-yonsoo/data
-yonsoo/images
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+data/
+images/
