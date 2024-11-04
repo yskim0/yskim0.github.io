@@ -1,5 +1,6 @@
 ---
 title: Model-Agnostic Meta-Learning for fast adaptation of deep networks
+author: Yonsoo Kim
 categories: [Paper Review, RL]
 tags: 
  - Deep Learning

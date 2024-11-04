@@ -1,5 +1,6 @@
 ---
 title: Fine-tune BERT for Extractive Summarization
+author: Yonsoo Kim
 categories: [Paper Review, NLP]
 tags: 
  - Deep Learning

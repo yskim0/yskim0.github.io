@@ -1,5 +1,7 @@
 ---
 title: Faster R-CNN:Towards Real-Time Object Detection with Region Proposal Networks
+author: Yonsoo Kim
+date: 2020-07-23
 categories: [Paper Review, Vision]
 tags: 
  - Deep Learning

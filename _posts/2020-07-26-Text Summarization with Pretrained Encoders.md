@@ -1,5 +1,6 @@
 ---
 title: Text Summarization with Pretrained Encoders
+author: Yonsoo Kim
 categories: [Paper Review, NLP]
 tags: 
  - Deep Learning

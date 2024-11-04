@@ -1,5 +1,6 @@
 ---
 title: Jacobian Matrix
+author: Yonsoo Kim
 categories:
  - Math
 tags: 
